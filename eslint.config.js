@@ -36,6 +36,7 @@ export default [
       'react/prop-types': 'off', // Disable checking for prop-types
       'no-unused-vars': 'off',
       'no-extra-boolean-cast' : 'off',
+      'no-undef' : 'off',
     },
   },
 ]
